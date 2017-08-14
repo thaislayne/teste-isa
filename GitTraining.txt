@@ -1,0 +1,7 @@
+git branch -a -> ver branches
+git checkout -> acessar branch 
+git add -> adicionar para o commit
+git commit -m "comentario" -> fazer commit
+git fetch -> fazer busca atualização
+git push -> empurrar para o remoto
+git pull -> pegar do remoto
